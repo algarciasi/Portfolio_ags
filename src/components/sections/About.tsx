@@ -47,7 +47,7 @@ export default function About() {
               </div>
               <div>
                 <p className="text-sm text-gray-500">Ubicación</p>
-                <p className="font-medium text-white">Almenara, ES</p>
+                <p className="font-medium text-white">El Herrumblar, ES</p>
               </div>
               <div>
                 <p className="text-sm text-gray-500">Perfil</p>
